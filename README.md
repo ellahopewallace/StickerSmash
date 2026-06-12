@@ -1,5 +1,7 @@
-Expo app tutorial
-I am following the Expo tutorial to learn React Native before starting my own mobile dev summer project
+# Expo app tutorial
+
+I am following the Expo tutorial to learn React Native before starting my own mobile dev summer project.
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
